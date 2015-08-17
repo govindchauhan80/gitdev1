@@ -21,5 +21,9 @@ namespace git_dev1
         {
             int c = a + b;
         }
+        static void Sub(int a, int b)
+        {
+            int c = a + b;
+        }
     }
 }
