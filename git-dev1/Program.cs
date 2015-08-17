@@ -12,5 +12,10 @@ namespace git_dev1
         {
             Console.Write("Hello 001002");
         }
+
+        static void Calc(int a, int b)
+        {
+            int c = a + b;
+        }
     }
 }
