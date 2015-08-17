@@ -15,6 +15,10 @@ namespace git_dev1
 
         static void Calc(int a, int b)
         {
+            int c = a * b;
+        }
+        static void Add(int a, int b)
+        {
             int c = a + b;
         }
     }
