@@ -10,7 +10,7 @@ namespace git_dev1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello 001");
+            Console.Write("Hello master");
         }
     }
 }
